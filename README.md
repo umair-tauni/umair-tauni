@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:engrumayr@gmail.com"><img src="https://img.shields.io/badge/-engrumayr@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<p align="left"> <a href="https://www.linkedin.com/in/umair-tauni/"><img src="https://img.shields.io/badge/-Akash%20Ahmad-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<p align="left"> <a href="https://www.linkedin.com/in/umair-tauni/"><img src="https://img.shields.io/badge/-Umair%20Tauni-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 
