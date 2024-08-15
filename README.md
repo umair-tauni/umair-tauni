@@ -1,6 +1,6 @@
 <img align="right" width="1000" height="300" src="https://history-computer.com/wp-content/uploads/2022/11/shutterstock_2111828198-1536x784.jpg">
 <h1 align="center">Hi 👋, I'm Umair</h1>
-<h3 align="center">A Web Developer from Pakistan</h3>
+<h3 align="center">Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMyOTdlOGM2YzgzMmMyMDdkNWMzMGU2YTA0YWI5YjkwODI5MzU2MCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashahmad427&label=Profile%20views&color=0e75b6&style=flat" alt="akashahmad427" /> </p>
 
