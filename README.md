@@ -1,20 +1,27 @@
-<img align="right" width="1000" height="300" src="https://history-computer.com/wp-content/uploads/2022/11/shutterstock_2111828198-1536x784.jpg">
-<h1 align="center">Hi 👋, I'm Umair</h1>
-<h3 align="center">Frontend Developer</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMyOTdlOGM2YzgzMmMyMDdkNWMzMGU2YTA0YWI5YjkwODI5MzU2MCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashahmad427&label=Profile%20views&color=0e75b6&style=flat" alt="akashahmad427" /> </p>
-
- I’m currently working on **React**
-
- How to reach me **engrumayr@gmail.com**
+# 💫 About Me:
+Hi and Welcome! 👋<br><br>I’m Umair, a passionate developer and tech enthusiast. Here’s what I’m currently working on and learning:<br><br> 🐍 Python Development: Using Python to build dynamic and powerful web apps.<br> ⚛️ React.js: Creating clean and user-friendly interfaces for the web.<br> 🤖 Generative AI: Exploring how artificial intelligence can solve problems and create new tools.<br><br>What I’m Learning<br><br>I’m diving into the DevOps field to understand better how to:<br><br>🐳 Docker: Package and deploy applications efficiently.<br>☸️ Kubernetes: Manage and scale containerized applications with ease.<br><br>Let’s Work Together<br><br>I’m always open to working on projects related to:<br><br>🌐 Web development<br>🧠 AI and machine learning<br>💡 Innovative technology ideas<br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-tauni) 
 
-<h3 align="left">Connect with me:</h3>
-<a href="mailto:engrumayr@gmail.com"><img src="https://img.shields.io/badge/-engrumayr@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<p align="left"> <a href="https://www.linkedin.com/in/umair-tauni/"><img src="https://img.shields.io/badge/-Umair%20Tauni-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=umair-tauni&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=umair-tauni&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair-tauni&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=umair-tauni&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=umair-tauni&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=umair-tauni&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
